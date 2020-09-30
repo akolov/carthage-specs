@@ -2,5 +2,6 @@
 	"1.5.7": "https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.5.7.zip",
 	"1.6.0": "https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.6.0.zip",
 	"1.6.2": "https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.6.2.zip",
-	"1.6.3": "https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.6.3.zip"
+	"1.6.3": "https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.6.3.zip",
+	"1.6.4": "https://amappc.oss-cn-zhangjiakou.aliyuncs.com/lbs/static/zip/AMap_iOS_Foundation_NO_IDFA_Lib_V1.6.4.zip"
 }
